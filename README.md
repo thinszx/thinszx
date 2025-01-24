@@ -7,7 +7,7 @@ I'm currently a master student at [University of Science and Technology of China
 - I received my bachalor degree in Information Security at [Hefei University of Technology](https://en.hfut.edu.cn/) as outstanding graduates.
 - I was an intern at [Tencent](https://www.tencent.com/), [iFlytek](https://www.iflytek.com/), and [H3C](https://www.h3c.com/) Switch Department, all as backend developer.
 - My research interest focuses on the applications of mmWave radar involving with deep learning techniques, especially in multi-modal alignment, dataset watermarkering for ownership verification and modern synthesis models(VQVAE-based structure with Transformers and Diffusions). I also have lots of interest in more exciting security research fields like privacy leakage and attacks in LLM and LMs.
-- I hate MATLAB(dirty but still efficiency...) and just use Python and Golang if I could.
+- I hate MATLAB(dirty but still efficient...) and just use Python and Golang if I could.
 
 ### 😅 Status
 
