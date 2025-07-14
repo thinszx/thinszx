@@ -1,4 +1,4 @@
-### 😊 Hi there, this is Zixin Shang
+### 😊 Hi there, this is Zixin Shang 尚子鑫
 
 I'm currently a master student at [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/), majored in Cyber Science and Technology.
 
