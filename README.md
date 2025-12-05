@@ -1,13 +1,14 @@
 ### 😊 Hi there, this is Zixin Shang 尚子鑫
 
-I'm currently a master student at [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/), majored in Cyber Science and Technology.
+I'm currently an algorithm engineer at [iFlytek](https://www.iflytek.com/), specially focusing on the large model training framework and parallel computing.
 
 ### 😳 More about me
 
 - I received my bachalor degree in Information Security at [Hefei University of Technology](https://en.hfut.edu.cn/) as outstanding graduates.
-- I was an intern at [Tencent](https://www.tencent.com/), [iFlytek](https://www.iflytek.com/), and [H3C](https://www.h3c.com/) Switch Department, all as backend developer.
+- I received my MEng. degree in Cyberspace Security at [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/), specializing in mmWave radar, multimodal Learning, and deep learning security. Visit my [Google Scholar page](https://scholar.google.com/citations?user=shxvW8oAAAAJ).
+- I was an intern at [Tencent](https://www.tencent.com/), [iFlytek](https://www.iflytek.com/) as backend developer, and [One2X](https://www.one2x.ai/) as a fullstack engineer.
 - My research interest focuses on the applications of mmWave radar involving with deep learning techniques, especially in multi-modal alignment, dataset watermarkering for ownership verification and modern synthesis models(VQVAE-based structure with Transformers and Diffusions). [This is my Google Scholar profile.](https://scholar.google.com/citations?hl=en&user=shxvW8oAAAAJ) I also have lots of interest in more exciting security research fields like privacy leakage and attacks in LLM and LMs.
-- I hate MATLAB(dirty but still efficient...) and just use Python and Golang if I could.
+- I hate MATLAB(dirty but still efficient...) and just use Python ~~and Golang~~ if I could.
 
 ### 😅 Status
 
